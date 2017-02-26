@@ -1,0 +1,4 @@
+D:\Documents\Programming\C#\AudioAnalysisLibrary\_output\Release\AudioSampleProducer.dll
+D:\Documents\Programming\C#\AudioAnalysisLibrary\_output\Release\AudioSampleProducer.pdb
+D:\Documents\Programming\C#\AudioAnalysisLibrary\AudioSampleProducer\obj\Release\AudioSampleProducer.dll
+D:\Documents\Programming\C#\AudioAnalysisLibrary\AudioSampleProducer\obj\Release\AudioSampleProducer.pdb

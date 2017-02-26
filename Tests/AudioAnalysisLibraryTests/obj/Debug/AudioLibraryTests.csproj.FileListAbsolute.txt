@@ -1,0 +1,6 @@
+D:\Documents\Programming\C#\AudioAnalysisLibrary\_output\Tests\Debug\AudioAnalysisLibrary.Tests.dll
+D:\Documents\Programming\C#\AudioAnalysisLibrary\_output\Tests\Debug\AudioAnalysisLibrary.Tests.pdb
+D:\Documents\Programming\C#\AudioAnalysisLibrary\Tests\AudioAnalysisLibraryTests\obj\Debug\AudioLibraryTests.csprojResolveAssemblyReference.cache
+D:\Documents\Programming\C#\AudioAnalysisLibrary\Tests\AudioAnalysisLibraryTests\obj\Debug\AudioAnalysisLibrary.Tests.dll
+D:\Documents\Programming\C#\AudioAnalysisLibrary\Tests\AudioAnalysisLibraryTests\obj\Debug\AudioAnalysisLibrary.Tests.pdb
+D:\Documents\Programming\C#\AudioAnalysisLibrary\_output\Tests\Debug\AudioAnalysisLibrary.Tests.dll.config

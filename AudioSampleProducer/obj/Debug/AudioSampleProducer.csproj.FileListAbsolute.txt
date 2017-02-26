@@ -1,0 +1,5 @@
+D:\Documents\Programming\C#\AudioAnalysisLibrary\_output\Debug\AudioSampleProducer.dll
+D:\Documents\Programming\C#\AudioAnalysisLibrary\_output\Debug\AudioSampleProducer.pdb
+D:\Documents\Programming\C#\AudioAnalysisLibrary\AudioSampleProducer\obj\Debug\AudioSampleProducer.dll
+D:\Documents\Programming\C#\AudioAnalysisLibrary\AudioSampleProducer\obj\Debug\AudioSampleProducer.pdb
+D:\Documents\Programming\C#\AudioAnalysisLibrary\AudioSampleProducer\obj\Debug\AudioSampleProducer.csprojResolveAssemblyReference.cache

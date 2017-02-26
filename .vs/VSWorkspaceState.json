@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Tests",
+    "\\Tests\\AudioAnalysisLibraryTests",
+    "\\Tests\\AudioAnalysisLibraryTests\\Windowing"
+  ],
+  "SelectedNode": "\\Tests\\AudioAnalysisLibraryTests\\Windowing\\FlatTopWindowServiceTests.cs",
+  "PreviewInSolutionExplorer": false
+}
