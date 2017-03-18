@@ -66,6 +66,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CircularBuffer.cs" />
     <Compile Include="Extensions.cs" />
     <Compile Include="Interfaces\ITimer.cs" />
     <Compile Include="Output\WavFileCreatorService.cs" />
